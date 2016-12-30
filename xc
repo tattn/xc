@@ -1,3 +1,5 @@
+#!/usr/bin/swift
+
 //
 //  xc.swift
 //  xc
